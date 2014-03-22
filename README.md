@@ -1,4 +1,4 @@
-python-SDK
+ZenPrint-python-Client
 ==========
 
-Python SDK for Zenprint REST API
+Python Client for Zenprint REST API
